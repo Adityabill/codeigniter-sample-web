@@ -1,0 +1,1 @@
+<p>This component is called from library.</p>
