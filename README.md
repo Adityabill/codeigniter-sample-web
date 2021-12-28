@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Adityabill/codeigniter-sample-web?color=Green)
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
